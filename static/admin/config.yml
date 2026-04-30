@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: saqibmanan/saqibmanan.github.io
-  branch: main
+  branch: decap-cms
   auth_type: pkce
   app_id: YOUR_GITHUB_OAUTH_APP_CLIENT_ID  # TODO: Create a GitHub OAuth App and replace this before merging to main
 
