@@ -9,8 +9,8 @@ twitter: https://twitter.com/Saqibmanan6
 linkedin: https://www.linkedin.com/in/msaqibmanan/
 behance:
 image: ./saqib.jpg
-sectors: Digital Public Goods
-projects: Intelligent Data Solution for Disaster Risk Reduction, ParakhAI
+sectors: DPG&I and Responsible AI
+projects: Intelligent Data Solution for Disaster Risk Reduction, ParakhAI, CivicDataSpace
 accentcolor:
 text:
 ---
