@@ -1,14 +1,15 @@
 ---
-name: Aakash Gandhi
+name: Aakash Gandhis
 role: Data Engineer
-medium:
-description:
-quote: 'It is possible to commit no mistakes and still lose. That is not a weakness; that is life. -Captain Jean-Luc Picard'
-github: https://github.com/AakashGandhi1
-twitter:
-linkedin: https://www.linkedin.com/in/aakash-gandhi-/
+description: null
+quote: It is possible to commit no mistakes and still lose. That is not a
+  weakness; that is life. -Captain Jean-Luc Picard
 image: aakash.jpg
-sectors:
+github: https://github.com/AakashGandhi1
+twitter: null
+linkedin: https://www.linkedin.com/in/aakash-gandhi-/
+medium: null
+sectors: null
 projects: Bangkok Metropolitan Administration’s Flood Risk Management Platform
 ---
 
