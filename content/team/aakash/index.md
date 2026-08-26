@@ -1,5 +1,5 @@
 ---
-name: Aakash Gandhis
+name: Aakash Gandhi
 role: Data Engineer
 description: null
 quote: It is possible to commit no mistakes and still lose. That is not a
